@@ -1,2 +1,3 @@
 # pemrosesan-sinyal
-ini adalah hasil dari tugas analisis data geofisika
+Ini adalah hasil dari tugas analisis data geofisika.
+Diharapkan untuk kalian sudah memiliki module Thinkdsp.
